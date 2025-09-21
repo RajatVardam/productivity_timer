@@ -2,9 +2,9 @@
 
 A simple and elegant desktop application to track your productive and idle time, helping you stay focused and aware of your work patterns.
 
-![Productivity Timer Screenshot](screenshots\basic.png)
-![Productivity Timer Screenshot](screenshots\working_1.png)
-![Productivity Timer Screenshot](screenshots\working_2.png)
+![Productivity Timer Screenshot](screenshots/basic.png)
+![Productivity Timer Screenshot](screenshots/working_1.png)
+![Productivity Timer Screenshot](screenshots/working_2.png)
 
 ## ✨ Features
 
